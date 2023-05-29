@@ -1,5 +1,4 @@
 // with path compression and union by size
-
 struct DSU {
    vector<int> parent, size;
 
